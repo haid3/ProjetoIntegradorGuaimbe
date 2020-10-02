@@ -3,15 +3,20 @@
 Ao clonar o git:
 
 1 - No workbench:
+
     Crie o schema guaimbe
 
 2 - No terminal:
+
     composer update
+
     php artisan migrate
+
     php artisan key:generate
 
 
 Para subir o servidor:
+
     php artisan serve
 
 ====================================
