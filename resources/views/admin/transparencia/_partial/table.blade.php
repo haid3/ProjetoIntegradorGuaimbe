@@ -5,7 +5,7 @@
     <div class="panel-heading">
         <h3 class="panel-title">Transparencia</h3>
     </div>
-    <div class="panel-body">
+    <div class="panel-body table-responsive">
         <table class="table table-bordered">
             <thead>
                 <tr>

@@ -11,10 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('admin.transparencia.index');
-});
-
 Route::group(['prefix' => '/admin','as' => 'admin.'], function (){
 
 
