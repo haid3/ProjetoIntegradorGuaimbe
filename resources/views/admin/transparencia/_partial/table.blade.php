@@ -58,7 +58,7 @@
                 <td></td>
             <tr>
             @endif
-        </table>
+        </table>    
     </div>                                  
 </div>
 
