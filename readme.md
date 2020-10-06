@@ -1,5 +1,9 @@
 ====================================
 
+Xampp - 7.1.33
+
+Composer 
+
 Ao clonar o git:
 
 1 - No workbench:

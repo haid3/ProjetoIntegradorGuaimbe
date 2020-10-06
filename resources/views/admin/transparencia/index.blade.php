@@ -1,11 +1,6 @@
 
 @extends('layout')
 
-@section('cabecalho')
-@endsection
-
-@include('admin.transparencia._partial.modalImport')
-
 @section('conteudo')
 <div class="row">   
     <div class="col-md-12">
